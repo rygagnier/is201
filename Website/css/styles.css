@@ -1,0 +1,54 @@
+body{
+    background-color: rgba(0, 0, 0, 0.845);
+    color: aliceblue; 
+    /*text color*/
+    font-family: Georgie, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+h1{ 
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+h5{
+    display: inline;
+    text-align: center;
+    font-style: italic;
+    background-color: darkgray;
+    font-weight: bolder;
+    color: black;
+}
+
+a{
+    color: aqua;
+}
+
+a:visited {
+    color: darkgray;
+}
+
+img{
+    border: 2px solid fuchsia;
+    padding: 3px;
+    margin: 5px;
+    /*centers stuff*/
+    /* display: block;
+    margin: auto; */
+}
+.imgcenter {
+    display: block;
+    margin: quto;
+}
+.rizz {
+    font-family: chiller, 'Comic Sans MS'
+    color: fuschia;
+    background-color: lime;
+    font-style: italic;
+}
+li{
+    text-decoration: overline;
+}
+li:hover{
+    text-decoration: underline;
+}
